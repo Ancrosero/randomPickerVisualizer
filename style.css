@@ -14,3 +14,113 @@ body {
     padding: 10px;
     height: 100vh;
 }
+
+h3 {
+    color: #fff;
+    margin: 10px 0 20px;
+}
+
+.container {
+    width: 500px;
+    max-width: 100%;
+}
+
+textarea {
+    border: none;
+    display: block;
+    font-family: inherit;
+    font-size: 1rem;
+    padding: 10px;
+    margin: 0 0 20px;
+    height: 100px;
+    width: 100%;
+}
+
+
+.tag{
+    background-color: #f0932b ;
+	border-radius: 50px;
+	color: #fff;
+	display: inline-block;
+	font-size: 14px;
+	padding: 10px 20px;
+	margin: 0 5px 10px 0;
+}
+
+
+.tag.highlight {
+	background-color: #273c75;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
